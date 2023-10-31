@@ -7,7 +7,7 @@ public class Factorial {
                  int num=5;
                  int fact=1;
                  int sum=0;
-                 while (num>1) {
+                 while (num>0) {
 					fact=fact*num;
 					num--;
 					}

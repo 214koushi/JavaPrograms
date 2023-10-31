@@ -5,7 +5,7 @@ public class AddingnuminString {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String s="2awe4i7";
+		String s="1a2ab13c9d1e3";
 		
 		int a1=0;
 		char[] ch = s.toCharArray();

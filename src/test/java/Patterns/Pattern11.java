@@ -14,11 +14,11 @@ public class Pattern11 {
 		 */
 		int n=5;
 		int a=1;
-		for (int i = 1; i <= n; i++) {
-			for (int j = i; j <= n; j++) {
-				System.out.print(a);
+		for (int i = 1; i < n; i++) {
+			for (int j = i; j < n; j++) {
+				System.out.print(1);
 			}
-			a++;
+			
 			System.out.println();
 		}
 	}

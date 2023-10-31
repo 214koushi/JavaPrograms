@@ -8,8 +8,8 @@ public class Fibonacci {
 		int b=1;
 		int sum=0;
 		while(a<=100) {
+			System.out.println(a);
 			sum=a+b;
-			System.out.println(sum);
 			a=b;
 			b=sum;
 		}
